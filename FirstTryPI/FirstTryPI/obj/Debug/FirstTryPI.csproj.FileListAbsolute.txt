@@ -1,0 +1,12 @@
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\bin\Debug\UrlsDatabase.mdf
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\bin\Debug\UrlsDatabase_log.ldf
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\bin\Debug\FirstTryPI.exe.config
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\bin\Debug\FirstTryPI.exe
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\bin\Debug\FirstTryPI.pdb
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\obj\Debug\FirstTryPI.Form1.resources
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\obj\Debug\FirstTryPI.addNewItem.resources
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\obj\Debug\FirstTryPI.Properties.Resources.resources
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\obj\Debug\FirstTryPI.csproj.GenerateResource.Cache
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\obj\Debug\FirstTryPI.exe
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\obj\Debug\FirstTryPI.pdb
+C:\Users\Иван\Documents\Visual Studio 2013\Projects\FirstTryPI\FirstTryPI\obj\Debug\FirstTryPI.csprojResolveAssemblyReference.cache
